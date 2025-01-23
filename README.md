@@ -57,7 +57,7 @@ This project is a frontend implementation of a bulk upload feature for employee 
 ---
 
 ## Deployment
-The working implementation is deployed to staging for review and testing. [Staging Link](#https://frontend-challenge-5cw1.vercel.app/)
+The working implementation is deployed to staging for review and testing. [Staging Link](https://frontend-challenge-5cw1.vercel.app/)
 
 ---
 
