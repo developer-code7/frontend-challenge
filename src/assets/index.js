@@ -2,7 +2,7 @@ export { default as claim } from "./Claims.png";
 export { default as employee } from "./Employee.png";
 export { default as leave } from "./Leaves.png";
 export { default as payroll } from "./Payroll.png";
-export { default as more } from "./more.png";
+export { default as more } from "./More.png";
 export { default as home } from "./home.png";
 export { default as building } from "./building.png";
 export { default as dropdown } from "./dropdown.png";
